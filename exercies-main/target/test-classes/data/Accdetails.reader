@@ -1,0 +1,15 @@
+  {
+  "firstName": "maanya",
+  "lastName": "p",
+  "day": "25",
+  "month":"05"
+  "year": "1996",
+  "company": "trianz",
+  "address1": "1243 manikonda",
+  "address2": "hyd",
+  "country": "India",
+  "state": "ANdhra Pradesh",
+  "city": "kurnool",
+  "zipcode": "500089",
+  "mobileNumber": "999888888"
+}
